@@ -13,7 +13,7 @@ The **GitHub Account NFT Tapp** MVP allows developers to mint dynamic NFTs based
 
 2. **Interactive Features for Twitter Audience**: When the NFT is shared on Twitter, users with the **Tlink extension** can interact with it directly through two key actions:
     - **Give Kudos (Thumbs Up)**: Twitter users can give the developer kudos via the NFT’s frontend. A visible counter shows how many kudos the developer has received.
-    - **Crypto Tips**: Twitter users can send **crypto tips** to the NFT owner, allowing developers to be financially supported for their open-source contributions.
+    - **Crypto Tips**: integrate with Buy me a beer, beers.smartlayer.networkTwitter, users can send **crypto tips** to the NFT owner, allowing developers to be financially supported for their open-source contributions.
 
 ## GitHub Profile Integration
 - **OAuth for GitHub**: Developers will authenticate with GitHub via OAuth, allowing the app to pull **real-time data** from their GitHub profile.
